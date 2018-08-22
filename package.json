@@ -1,0 +1,22 @@
+{
+  "name": "lernen01",
+  "version": "1.0.0",
+  "description": "eine einfachste Nodejs-App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/us0906/lernen01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/us0906/lernen01/issues"
+  },
+  "homepage": "https://github.com/us0906/lernen01#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
